@@ -1,0 +1,14 @@
+
+.header{
+	text-align :center;
+	color : white;
+	padding :20px;
+	background-color : darkslateblue;
+	border : 2px solid white;
+	border-radius : 9px;
+}
+
+.data-table{
+	border : 2px solid white;
+	border-radius : 9px;
+}
